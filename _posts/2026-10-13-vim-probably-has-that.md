@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vim probably has that"
-tags: [vim, plugins, rant]
+tags: [vim, rant]
 context: ["lsp", "packages", "registers", "motion.txt", "quickfix"]
 date: 2026-10-13
 ---
