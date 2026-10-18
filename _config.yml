@@ -3,4 +3,4 @@ description: Vim tips for the impractical programmer
 author: Carson Chambers
 theme: minima
 url: "https://carsonchambers.github.io"
-baseurl: "/blog"
+baseurl: ""
