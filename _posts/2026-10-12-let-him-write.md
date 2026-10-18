@@ -2,7 +2,7 @@
 layout: post
 title: "Let him write!"
 date: 2026-10-12
-tags: [neovim, vim]
+tags: [vim]
 context: ["++p", "c_%", "filename-modifiers", "::S", ":w_c", ":terminal"]
 ---
 
