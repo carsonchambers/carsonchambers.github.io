@@ -108,3 +108,30 @@ blockquote {
 :not(pre) > code {
   white-space: nowrap;
 }
+
+// Prev/next links at the bottom of a post
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: $spacing-unit;
+  margin-top: $spacing-unit;
+  padding-top: $spacing-unit / 2;
+  border-top: 1px solid $grey-color-light;
+}
+
+.post-nav-prev,
+.post-nav-next {
+  max-width: 48%;
+}
+
+// Keep "Next" on the right even when there's no "Prev"
+.post-nav-next {
+  margin-left: auto;
+  text-align: right;
+}
+
+.post-nav-label {
+  display: block;
+  font-size: $small-font-size;
+  color: $grey-color;
+}

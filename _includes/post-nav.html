@@ -1,0 +1,20 @@
+{%- comment -%}
+  Prev/next links at the bottom of a post. Jekyll sets page.previous (older)
+  and page.next (newer) for posts; either is nil at the ends of the list.
+{%- endcomment -%}
+{%- if page.previous or page.next -%}
+<nav class="post-nav">
+  {%- if page.previous -%}
+    <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}" rel="prev">
+      <span class="post-nav-label">&larr; Prev</span>
+      {{ page.previous.title | escape }}
+    </a>
+  {%- endif -%}
+  {%- if page.next -%}
+    <a class="post-nav-next" href="{{ page.next.url | relative_url }}" rel="next">
+      <span class="post-nav-label">Next &rarr;</span>
+      {{ page.next.title | escape }}
+    </a>
+  {%- endif -%}
+</nav>
+{%- endif -%}
