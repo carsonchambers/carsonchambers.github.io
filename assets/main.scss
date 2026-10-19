@@ -64,6 +64,16 @@
   }
 }
 
+// Subtitle: a one-line aside under the post title (`subtitle:` in front matter)
+.post-subtitle {
+  font-size: $base-font-size * 0.875;
+  font-style: italic;
+  color: $grey-color-dark;
+  // pull up toward the title, eating most of the h1's bottom margin
+  margin-top: -($spacing-unit / 3);
+  margin-bottom: $spacing-unit / 6;
+}
+
 // Tags
 .post-tag {
   margin-left: $spacing-unit / 3;
