@@ -165,7 +165,7 @@ We're okay.
 
 And just like that, when we scroll horizontally our header row now tracks us. Lovely.
 
-Now dear rearder, I hate to leave you in suspence, but you will have to tune in next time to figure out how we are going to sort and filter our new prettified list to find our perfect match
+Now dear reader, I hate to leave you in suspense, but you will have to tune in next time to figure out how we are going to sort and filter our new prettified list to find our perfect match
 ```csv
 name     ,age  ,gender,distance,hobby                                                                           ,favorite food         ,favorite tv show               ,favorite book                                  ,favorite city
 Monica   ,30   ,f     ,100Km   ,Long walks on the beach                                                         ,Ice Cream             ,The Bachelor                   ,The Notebook                                   ,Miami
