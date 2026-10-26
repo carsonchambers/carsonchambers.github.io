@@ -20,14 +20,14 @@ dear reader, I am here to guide you on your journey.
 
 ```csv
 name,age,gender,distance,hobby,favorite food,favorite tv show,favorite book,favorite city
-Tiffany,30,f,100Km,Long walks on the beach, Ice Cream, The Bachelor, The Notebook, Miami
-Agatha,89,f,10Km,Watching the TV with the volume on too loud, Werthers Original, Murder She Wrote, Agatha Christie's Murder on the Orient Express, Bath
+Monica,30,f,100Km,Long walks on the beach, Ice Cream, The Bachelor, The Notebook, Miami
+Erica,89,f,10Km,Watching the TV with the volume on too loud, Werthers Original, Murder She Wrote, Agatha Christie's Murder on the Orient Express, Bath
+Rita,40,f,50Km,Going to the mall with my friends and shopping and laughing and run on sentences, Grey's Anatomy, Eat Pray Love, Paris
+Tina,34,f,15Km,Reading books, Spaghetti, Gilmore Girls, Pride and Prejudice, Boston
+Sandra,42,f,25Km,Gardening, Caesar salad, Gardeners' World, The Secret Garden, Portland
+Mary,28,f,40Km,Going to the gym, Chicken wraps, Love Island, Atomic Habits, Los Angeles
+Jessica,51,f,5Km,Knitting, Meatloaf, Coronation Street, Little Women, Halifax
 Joe,35,m,20Km,Working on trucks, Hot dogs, Top Gear, Zen and the Art of Motorcycle Maintenance, Detroit
-Jane,40,f,50Km,Going to the mall with my friends and shopping and laughing and run on sentences, Grey's Anatomy, Eat Pray Love, Paris
-Linda,34,f,15Km,Reading books, Spaghetti, Gilmore Girls, Pride and Prejudice, Boston
-Karen,42,f,25Km,Gardening, Caesar salad, Gardeners' World, The Secret Garden, Portland
-Megan,28,f,40Km,Going to the gym, Chicken wraps, Love Island, Atomic Habits, Los Angeles
-Susan,51,f,5Km,Knitting, Meatloaf, Coronation Street, Little Women, Halifax
 Rachel,26,f,30Km,Watching movies, Pizza, Friends, The Hunger Games, New York
 Emily,31,f,60Km,Hiking, Turkey sandwiches, Planet Earth, Wild, Banff
 Sarah,37,f,12Km,Cooking, Lasagna, The Great British Bake Off, Salt Fat Acid Heat, Rome
@@ -168,14 +168,14 @@ And just like that, when we scroll horizontally our header row now tracks us. Lo
 Now dear rearder, I hate to leave you in suspence, but you will have to tune in next time to figure out how we are going to sort and filter our new prettified list to find our perfect match
 ```csv
 name     ,age  ,gender,distance,hobby                                                                           ,favorite food         ,favorite tv show               ,favorite book                                  ,favorite city
-Tiffany  ,30   ,f     ,100Km   ,Long walks on the beach                                                         ,Ice Cream             ,The Bachelor                   ,The Notebook                                   ,Miami
-Agatha   ,89   ,f     ,10Km    ,Watching the TV with the volume on too loud                                     ,Werthers Original     ,Murder She Wrote               ,Agatha Christie's Murder on the Orient Express ,Bath
+Monica   ,30   ,f     ,100Km   ,Long walks on the beach                                                         ,Ice Cream             ,The Bachelor                   ,The Notebook                                   ,Miami
+Erica    ,89   ,f     ,10Km    ,Watching the TV with the volume on too loud                                     ,Werthers Original     ,Murder She Wrote               ,Agatha Christie's Murder on the Orient Express ,Bath
+Rita     ,40   ,f     ,50Km    ,Going to the mall with my friends and shopping and laughing and run on sentences,Grey's Anatomy        ,Eat Pray Love                  ,la la la la la la                              ,Paris
+Tina     ,34   ,f     ,15Km    ,Reading books                                                                   ,Spaghetti             ,Gilmore Girls                  ,Pride and Prejudice                            ,Boston
+Sandra   ,42   ,f     ,25Km    ,Gardening                                                                       ,Caesar salad          ,Gardeners' World               ,The Secret Garden                              ,Portland
+Mary     ,28   ,f     ,40Km    ,Going to the gym                                                                ,Chicken wraps         ,Love Island                    ,Atomic Habits                                  ,Los Angeles
+Jessica  ,51   ,f     ,5Km     ,Knitting                                                                        ,Meatloaf              ,Coronation Street              ,Little Women                                   ,Halifax
 Joe      ,35   ,m     ,20Km    ,Working on trucks                                                               ,Hot dogs              ,Top Gear                       ,Zen and the Art of Motorcycle Maintenance      ,Detroit
-Jane     ,40   ,f     ,50Km    ,Going to the mall with my friends and shopping and laughing and run on sentences,Grey's Anatomy        ,Eat Pray Love                  ,la la la la la la                              ,Paris
-Linda    ,34   ,f     ,15Km    ,Reading books                                                                   ,Spaghetti             ,Gilmore Girls                  ,Pride and Prejudice                            ,Boston
-Karen    ,42   ,f     ,25Km    ,Gardening                                                                       ,Caesar salad          ,Gardeners' World               ,The Secret Garden                              ,Portland
-Megan    ,28   ,f     ,40Km    ,Going to the gym                                                                ,Chicken wraps         ,Love Island                    ,Atomic Habits                                  ,Los Angeles
-Susan    ,51   ,f     ,5Km     ,Knitting                                                                        ,Meatloaf              ,Coronation Street              ,Little Women                                   ,Halifax
 Rachel   ,26   ,f     ,30Km    ,Watching movies                                                                 ,Pizza                 ,Friends                        ,The Hunger Games                               ,New York
 Emily    ,31   ,f     ,60Km    ,Hiking                                                                          ,Turkey sandwiches     ,Planet Earth                   ,Wild                                           ,Banff
 Sarah    ,37   ,f     ,12Km    ,Cooking                                                                         ,Lasagna               ,The Great British Bake Off     ,Salt Fat Acid Heat                             ,Rome
