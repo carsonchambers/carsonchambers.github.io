@@ -9,7 +9,7 @@
   <span class="post-context-label">Context:</span>
   {%- for entry in entries -%}
     {%- assign tag = entry | strip -%}
-    <a href="https://neovim.io/doc/user/helptag/?tag={{ tag | url_encode }}"><code>:h {{ tag | escape }}</code></a>
+    <a href="https://neovim.io/doc/user/helptag/?tag={{ tag | url_encode }}"><code>{{ tag | escape }}</code></a>
     {%- unless forloop.last %},{% endunless -%}
   {%- endfor -%}
 </p>
