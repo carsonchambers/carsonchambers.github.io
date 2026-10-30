@@ -89,7 +89,7 @@ As you might have picked up on from reading the above sections, there is infact
 a plugin ecosystem for Vim. There are a ton of different plugins, plugin
 managers, and ways to integrate them all. I personally use `vim.pack` which is
 native, but I believe most people use
-[Mason](https://github.com/mason-org/mason.nvim). Part of Bram's vision with
+[Lazy](https://github.com/folke/lazy.nvim). Part of Bram's vision with
 Vim was a tight consistent core that could be extended by individuals as they
 saw fit. I find this part alone to be such a compelling argument for using Vim.
 It is the idea that Vim is a Personalized Development Environment (I know the
