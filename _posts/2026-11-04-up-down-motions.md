@@ -62,3 +62,5 @@ function foobar() {
 ```
 
 The problem is that I don't like insert mode remaps with my leader key because it is set to space, so things get super clunky. If I had a comment section you could show me a better way to do this...
+
+> **Update (2026-11-08):** After some reflection on this, I have decided to opt for `inoremap {<CR> {<CR>}<C-o>O` because in insert mode, if I ever drop a curly brace then enter, my expectation is going to be the indentation, and there will be no hangup on it either because I have no { maps. Looks like I don't need your input after all.
