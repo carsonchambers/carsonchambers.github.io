@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "These ten tips will make you cool"
+title: "JetBrains hates these 10 Simple Tricks"
 tags: [vim]
 context: [i_CTRL-X, vim.keymap]
 date: 2026-10-14
