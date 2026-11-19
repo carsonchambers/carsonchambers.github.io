@@ -5,3 +5,4 @@ vendor/
 .nvim.lua
 _drafts
 bin
+_release/
